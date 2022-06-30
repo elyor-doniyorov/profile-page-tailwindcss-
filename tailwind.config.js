@@ -25,7 +25,7 @@ module.exports = {
         lightGray: '#d7d9d9',
         gray: '#b0b0b0',
         blueBlue: '#081b59',
-        logoColor: '#232426'
+        logoColor: '#393a3b'
       }
     },
   },
