@@ -675,6 +675,10 @@ video {
   width: 2.5rem;
 }
 
+.w-64 {
+  width: 16rem;
+}
+
 .grid-flow-col {
   grid-auto-flow: column;
 }
