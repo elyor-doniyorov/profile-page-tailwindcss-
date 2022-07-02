@@ -21,7 +21,7 @@ module.exports = {
         cryptoBlue: '#15b1c2',
         lightBrown: '#f2cba5',
         lightBlue: '#07b0e8',
-        lightGreen: '#dcfcfa',
+        lightGreen: '#9ee895',
         lightGray: '#d7d9d9',
         gray: '#b0b0b0',
         blueBlue: '#081b59',
